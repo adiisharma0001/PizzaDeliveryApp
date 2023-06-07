@@ -175,7 +175,7 @@ const pizzas = [
             }
         ],
 
-        category: "veg",
+        category: "Nonveg",
 
         image: "https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=is&k=20&c=cjrsXpA0waA1Ee50_aVdrY-FCpREkEuf0wkJmm20dAc=",
         description: "Pepper Barbecue Chicken I Cheese"
